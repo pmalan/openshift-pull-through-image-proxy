@@ -2,7 +2,7 @@
 
 1. Nexus 3 or higher
 2. Openshift 4.12 and higher
-3. NGINX 
+3. NGINX (Optional, only to make life easier on configuration of HTTPS)
 
 # Nexus Configuration
 
