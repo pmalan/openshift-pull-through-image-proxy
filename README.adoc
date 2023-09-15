@@ -108,7 +108,7 @@ kind: ImageTagMirrorSet
 metadata:
   name: nexus-tag-mirror
 spec:
-  imageDigestMirrors:
+  imageTagMirrors:
     - source: quay.io
       mirrors:
         - nexus.pietersmalan.com
@@ -119,3 +119,7 @@ spec:
       mirrorSourcePolicy: AllowContactingSource
 
 ----
+
+
+[WARNING]
+Keep in mind that we have to update the kubelet configuration, so it will do a rolling update through the nodes, when you apply the mirror sets.
