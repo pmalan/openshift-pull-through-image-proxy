@@ -125,3 +125,11 @@ spec:
 ====
 Keep in mind that we are updating the kubelet configuration, so it will do a rolling update on the nodes, when you apply the mirror sets.
 ====
+
+
+# Confirm configuration is working
+
+Open the docker group repository in your Nexus repository web page, and you should see a bunch of images cached for the different repositories.
+
+image::nexus4.png[]
+
