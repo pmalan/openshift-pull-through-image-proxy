@@ -1,0 +1,7 @@
+# Software requirements
+
+1. Nexus 3 or higher
+2. Openshift 4.12 and higher
+
+# Nexus Configuration
+
