@@ -9,9 +9,10 @@
 
 image::nexus2.png[]
 
-image::nexus3.png[]
+image::nexus1.png[]
 
 
 [TIP]
+====
 The username and password can be obtained from https://access.redhat.com/terms-based-registry/
-
+====
