@@ -18,6 +18,8 @@ image::nexus1.png[]
 The username and password can be obtained from https://access.redhat.com/terms-based-registry/
 ====
 
+Repeat this step for each individual repository you want to setup. In this example, I have user quay.io and registry.redhat.com.
+
 ### Create a docker registry to host your docker proxy
 
 Add the new proxy registry in the Group Member Repositories
