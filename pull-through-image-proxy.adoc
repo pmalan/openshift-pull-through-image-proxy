@@ -7,11 +7,11 @@
 
 1. Create a "docker (proxy)" repository and supply the details as follow:
 
-image::nexus1.png[]
-
 image::nexus2.png[]
 
-.Username and Password
-[username]
+image::nexus3.png[]
+
+
+[TIP]
 The username and password can be obtained from https://access.redhat.com/terms-based-registry/
 
