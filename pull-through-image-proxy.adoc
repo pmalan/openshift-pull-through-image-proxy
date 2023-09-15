@@ -7,7 +7,7 @@
 
 1. Create a "docker (proxy)" repository and supply the details as follow:
 
-image::nexus1.png
+image::nexus1.png[]
 
-image::nexus2.png
+image::nexus2.png[]
 
