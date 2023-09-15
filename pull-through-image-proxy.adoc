@@ -11,3 +11,7 @@ image::nexus1.png[]
 
 image::nexus2.png[]
 
+.Username and Password
+[username]
+The username and password can be obtained from https://access.redhat.com/terms-based-registry/
+
