@@ -5,7 +5,7 @@
 
 # Nexus Configuration
 
-## Create a "docker (proxy)" repository and supply the details as follow:
+### Create a "docker (proxy)" repository and supply the details as follow:
 
 image::nexus2.png[]
 
@@ -17,8 +17,8 @@ image::nexus1.png[]
 The username and password can be obtained from https://access.redhat.com/terms-based-registry/
 ====
 
-## Create a docker registry to host your docker proxy
+### Create a docker registry to host your docker proxy
 
 Add the new proxy registry in the Group Member Repositories
 
-image::nexus3.png
+image::nexus3.png[]
