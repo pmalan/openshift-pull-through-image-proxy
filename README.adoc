@@ -16,6 +16,8 @@ image::nexus1.png[]
 [TIP]
 ====
 The username and password can be obtained from https://access.redhat.com/terms-based-registry/
+
+For Quay - base64 decoded pullsecret auth for quay.io, username before ':' and password after ':'
 ====
 
 Repeat this step for each individual repository you want to setup. In this example, I have user quay.io and registry.redhat.com.
@@ -75,6 +77,7 @@ server {
       proxy_set_header X-Forwarded-Proto "https";
   }
 }
+
 
 ----
 
